@@ -1,7 +1,12 @@
-INPUT FILES:
+(naming conventions and location)
 
+INPUT FILES: 
 
+>training data mp4 
+>feature Extraction data 
 
 
 
 OUTPUT FILES:
+
+>h5 file 
