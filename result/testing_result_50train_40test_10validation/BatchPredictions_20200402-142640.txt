@@ -1,0 +1,2440 @@
+Prediction: Falling
+Prediction array: [[3.7897817e-25 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4119-58.npy
+
+
+Prediction: Falling
+Prediction array: [[9.596313e-23 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2919-3.npy
+
+
+Prediction: Falling
+Prediction array: [[2.242516e-22 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4120-59.npy
+
+
+Prediction: Falling
+Prediction array: [[5.3078626e-23 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2953-25.npy
+
+
+Prediction: Falling
+Prediction array: [[3.8136023e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2956-28.npy
+
+
+Prediction: Falling
+Prediction array: [[3.5941363e-24 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4204-115.npy
+
+
+Prediction: Falling
+Prediction array: [[1.4922804e-25 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4163-87.npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.0078502e-17]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2943-18.npy
+
+
+Prediction: Falling
+Prediction array: [[2.9540704e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2939-15.npy
+
+
+Prediction: Falling
+Prediction array: [[3.623046e-23 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4135-68.npy
+
+
+Prediction: Falling
+Prediction array: [[1.0853522e-24 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4105-45.npy
+
+
+Prediction: Falling
+Prediction array: [[3.1354643e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4226-132.npy
+
+
+Prediction: Falling
+Prediction array: [[3.7782993e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4206-117.npy
+
+
+Prediction: Falling
+Prediction array: [[6.9852504e-17 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2923-5.npy
+
+
+Prediction: Falling
+Prediction array: [[1.2006338e-23 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2959-30.npy
+
+
+Prediction: Walking
+Prediction array: [[9.9999869e-01 1.3125003e-06]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4221-127.npy
+
+
+Prediction: Falling
+Prediction array: [[2.2557737e-20 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4218-125.npy
+
+
+Prediction: Falling
+Prediction array: [[1.0221292e-24 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4145-76.npy
+
+
+Prediction: Falling
+Prediction array: [[1.4596177e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4219-126.npy
+
+
+Prediction: Falling
+Prediction array: [[4.57514e-23 1.00000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2963-32.npy
+
+
+Prediction: Falling
+Prediction array: [[9.7393676e-23 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4202-114.npy
+
+
+Prediction: Falling
+Prediction array: [[5.229007e-21 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4161-85.npy
+
+
+Prediction: Falling
+Prediction array: [[3.3949043e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2946-20.npy
+
+
+Prediction: Falling
+Prediction array: [[7.448736e-24 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4144-75.npy
+
+
+Prediction: Falling
+Prediction array: [[4.666816e-24 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4183-100.npy
+
+
+Prediction: Falling
+Prediction array: [[2.2624763e-22 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4134-67.npy
+
+
+Prediction: Falling
+Prediction array: [[7.5843247e-25 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4104-44.npy
+
+
+Prediction: Falling
+Prediction array: [[2.1421092e-23 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4190-105.npy
+
+
+Prediction: Falling
+Prediction array: [[3.4937656e-23 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2918-2.npy
+
+
+Prediction: Falling
+Prediction array: [[4.366385e-20 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4141-72.npy
+
+
+Prediction: Falling
+Prediction array: [[6.633677e-21 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4140-71.npy
+
+
+Prediction: Falling
+Prediction array: [[2.2672515e-24 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4180-98.npy
+
+
+Prediction: Falling
+Prediction array: [[3.1227278e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4098-39.npy
+
+
+Prediction: Falling
+Prediction array: [[4.659763e-20 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2954-26.npy
+
+
+Prediction: Falling
+Prediction array: [[1.9239568e-24 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4208-119.npy
+
+
+Prediction: Falling
+Prediction array: [[2.498217e-22 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2952-24.npy
+
+
+Prediction: Falling
+Prediction array: [[5.6081933e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4165-88.npy
+
+
+Prediction: Falling
+Prediction array: [[4.963118e-25 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4131-64.npy
+
+
+Prediction: Falling
+Prediction array: [[1.9126955e-23 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4172-93.npy
+
+
+Prediction: Falling
+Prediction array: [[6.4217754e-24 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4188-103.npy
+
+
+Prediction: Falling
+Prediction array: [[1.3848037e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2930-11.npy
+
+
+Prediction: Falling
+Prediction array: [[5.588108e-25 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4099-40.npy
+
+
+Prediction: Falling
+Prediction array: [[1.8140602e-19 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4147-78.npy
+
+
+Prediction: Falling
+Prediction array: [[6.80768e-25 1.00000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4148-79.npy
+
+
+Prediction: Falling
+Prediction array: [[4.647963e-25 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4117-56.npy
+
+
+Prediction: Falling
+Prediction array: [[4.991016e-22 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4175-96.npy
+
+
+Prediction: Falling
+Prediction array: [[3.7909444e-22 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2924-6.npy
+
+
+Prediction: Falling
+Prediction array: [[6.518657e-22 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4223-129.npy
+
+
+Prediction: Falling
+Prediction array: [[4.7289647e-24 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 2948-22.npy
+
+
+Prediction: Falling
+Prediction array: [[1.7043842e-21 1.0000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4112-51.npy
+
+
+Prediction: Falling
+Prediction array: [[3.2811e-23 1.0000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4142-73.npy
+
+
+Prediction: Falling
+Prediction array: [[5.736432e-23 1.000000e+00]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Falling\Img 4214-122.npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.226776e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (660).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.409418e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (560).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.105798e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1119).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3345999e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (368).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.6999783e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (201).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.5780534e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (631).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.3126166e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (189).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.542694e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (281).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6922223e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (870).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.7900928e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (635).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.2826774e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (878).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1489747e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (837).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 8.9965566e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (981).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.3604093e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (130).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.391277e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (155).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.851426e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1114).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.765593e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (75).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.594611e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (780).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.889949e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (28).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.9447184e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (367).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.1497045e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (462).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2237237e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (847).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.900345e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (501).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.355837e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (344).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.0954507e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (213).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.691146e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (892).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 8.41021e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (210).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.718426e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (957).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5748822e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (335).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.1848597e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (840).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.257394e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (469).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.592134e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (244).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2973891e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (316).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.8114762e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (789).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.020602e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (832).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.048827e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (439).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.256715e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (9).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.7558684e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (887).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4483237e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (217).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.2532281e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (651).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2499167e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (639).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.1573912e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (37).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5735349e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (754).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.9047992e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (137).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.983651e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (941).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2090652e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (842).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1914911e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (278).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0424264e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (216).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.8395083e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (597).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.1228698e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (54).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4026296e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1098).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3863887e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (181).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5734216e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1137).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.759062e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1097).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4996086e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (407).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6216071e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (169).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4701196e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (687).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0789925e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (190).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.7465213e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (562).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.663567e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (305).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.268532e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (429).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.051326e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (815).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.3460946e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (230).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.8282615e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (744).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6271274e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (807).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4773127e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (964).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.0622226e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (701).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0009995e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (587).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.719671e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (615).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.777401e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (907).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.1491166e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (403).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.7167054e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (426).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2724924e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (467).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.836476e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (454).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 8.6583046e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (191).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3667659e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (727).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.355447e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (919).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.630589e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (26).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.8205577e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1121).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5663243e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (580).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.446415e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (549).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.570194e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (831).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.091271e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (4).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.5216766e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (574).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 8.1550456e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (89).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.6770294e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (967).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.405836e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1088).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.6780557e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (910).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1120618e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (346).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.9037439e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (592).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.6738048e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (73).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0578968e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (10).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.498007e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (115).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 8.2090696e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (626).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.573443e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (371).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0261621e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (161).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.812577e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (277).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.0288773e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (554).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2785411e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (123).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.8089565e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (336).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0718379e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (742).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 2.85487e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (136).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.7467214e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (67).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.1876815e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (296).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 9.1107345e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (525).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000000e+00 1.01716656e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (607).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 2.14134e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (319).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.2808727e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (27).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.168239e-17]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (150).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.2577016e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (690).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1647467e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1058).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2602963e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (125).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.231897e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (292).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.404264e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1110).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.2706098e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1086).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.7911057e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (734).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.4573176e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (295).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0526154e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (699).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.873563e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (622).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.859578e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (970).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4490071e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (668).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.139164e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (888).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3646061e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (35).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.8511425e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1117).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.8155321e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (714).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5167617e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (676).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.837095e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (110).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.330954e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (413).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.804762e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (999).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.5197766e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (698).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.9701394e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (816).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.1523244e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (646).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.642473e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (332).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.545837e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (138).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3714285e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (135).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6420245e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (236).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.271272e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (392).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 8.1503355e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (258).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.746363e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (100).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0554162e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (293).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.198016e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (958).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.1192236e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (369).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5927177e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (43).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5023869e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (516).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.1945104e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (134).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.9781053e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (535).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.515118e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (918).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 5.30947e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (581).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5501428e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1063).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4050692e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (341).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.551206e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1131).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.6346738e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (871).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.442226e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (864).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0525776e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (418).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1689805e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (31).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.0813884e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (25).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.0705956e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (965).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.074281e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (285).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.474848e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (291).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.033791e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (348).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3370486e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (600).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.917968e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (812).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3852891e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (388).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.4114583e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (579).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.454302e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1139).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.234832e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (95).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5035408e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (235).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0826273e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (884).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2018164e-15]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (36).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 1.44205e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (881).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0340848e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (518).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.8854202e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (540).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3870856e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (391).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3834528e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (709).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.5095252e-17]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (601).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0634632e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (806).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.0751093e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (984).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.1001425e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1090).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2854714e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (237).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5986348e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (872).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.202143e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (561).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.4052506e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (88).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.477622e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (357).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0586881e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (659).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.214573e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (313).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.175514e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (952).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.488003e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (689).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1606181e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1094).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.7186393e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (16).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 6.15221e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (599).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.152037e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (990).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.3565754e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (869).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2822404e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (684).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.234165e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (321).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.414667e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (725).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1286454e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (166).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.153651e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (738).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1033851e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (673).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.050981e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (861).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3960224e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1125).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.902676e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (544).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2665823e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (18).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.7117223e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (854).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.7092154e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (975).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.441977e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (247).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.8302755e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (380).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.3811124e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1115).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.755255e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (900).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3527506e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1074).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.2010877e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (352).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.0188443e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (458).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.9853656e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (165).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5537499e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (697).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.324233e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (804).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.430207e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (417).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4275614e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1059).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.1426335e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (362).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.2143656e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1146).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 8.89028e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (55).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.6995447e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (538).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5616256e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (486).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.5805904e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (308).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.7082738e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (573).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.7346527e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (855).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.712218e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (198).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.4050573e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (732).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.046111e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (92).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.0433728e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (521).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0883138e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (703).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.7855138e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (318).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 8.37056e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (933).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.455034e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (931).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4745203e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (483).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.961252e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (83).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.9735465e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1096).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.7416577e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1083).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 9.2061196e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1077).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4300413e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (177).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.155126e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (425).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.635113e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1065).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.3697134e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (938).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6534761e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (350).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.7161485e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (157).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2853401e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (248).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4386065e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (82).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 9.7513156e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (670).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6886304e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (602).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.8926945e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1108).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.8234708e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (443).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 4.71684e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (577).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3580793e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (49).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.3323912e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (569).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.7388433e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (598).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5271227e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1080).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.9158202e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (912).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.7356472e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1079).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.8720313e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (107).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.639037e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (259).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.795459e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (225).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.122749e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (118).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 9.1684355e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1140).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4069595e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (640).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0130629e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (11).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 8.0764987e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (56).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2143934e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1076).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.200905e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (537).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.1794826e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (823).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.3736784e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (2).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 9.58175e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (783).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0790701e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (40).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1637963e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (444).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2607346e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (33).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4714285e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (325).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.576955e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (436).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5875673e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (935).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.1176187e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (605).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.0852871e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (681).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4843116e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (954).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.5131406e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (298).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.5463735e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (792).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.871745e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (45).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5718662e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (66).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000000e+00 1.04539986e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (301).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.943536e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (404).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000000e+00 1.03935984e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (70).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.3809602e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (488).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.412398e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (865).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.8583867e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1067).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.412494e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (511).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.3146896e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (590).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4072935e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1122).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.7773857e-26]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (339).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.506108e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (586).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.122663e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (202).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 9.4231636e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (797).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.8154337e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (955).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.6829413e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (366).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.3053038e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (231).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4627376e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (269).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000000e+00 1.19520055e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (63).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0686508e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (857).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.886958e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (810).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3035237e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (457).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.259182e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (614).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4566848e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (215).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.993596e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1092).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.6791717e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (184).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.188603e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (894).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 1.362628e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (643).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1521534e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (81).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.0140093e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (102).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.148368e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (769).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.8753706e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (461).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.3920823e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (741).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 6.23726e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (844).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.4467897e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (192).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.4777123e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (327).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3268371e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (477).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 8.3485006e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (158).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.675711e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (78).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2124788e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (675).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.191799e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (745).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5923366e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (533).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000000e+00 1.00221465e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (763).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0876794e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (737).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.341525e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (434).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.1354386e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (669).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.9385962e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (768).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.6656813e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1130).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.012479e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (928).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.7633455e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (267).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3135596e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (14).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6214286e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (644).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.9581203e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (683).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.063246e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (836).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5851093e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (993).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.323071e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (942).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0389708e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (288).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.8832598e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (879).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.7808215e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (500).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2449563e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (124).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.445282e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (393).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.3556835e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (167).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5335524e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (133).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1414731e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (507).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.1054184e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (365).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.7246737e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (400).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.574762e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (186).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.747448e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (241).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.7600246e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (757).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.675293e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (427).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.913087e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (795).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.954666e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (333).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.1653012e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (48).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6774007e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (250).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.188376e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1101).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.1736556e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (616).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5512297e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (338).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0300895e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (226).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4116742e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (604).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.526197e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (251).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.927463e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (680).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.6064809e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (591).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.4036825e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (255).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.5989125e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (845).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.1558533e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1142).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.5503674e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (147).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.5190012e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (310).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.875848e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (337).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 6.51568e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (584).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.4932216e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (702).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2571252e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (558).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0211365e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1070).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.3701668e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (91).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.468294e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (492).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.0146803e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (979).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.4141183e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (672).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2479276e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1095).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.4578317e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (627).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.664748e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (358).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 8.075658e-18]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (568).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3599737e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (649).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.2380452e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (41).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.4660116e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (971).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.190453e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (498).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.8662894e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (663).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.2144918e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (543).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5975561e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (160).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.9022427e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1129).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0395132e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (233).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 3.54586e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (802).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.0534785e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1069).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.5704671e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (610).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.9398918e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1085).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0057194e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (712).npy
+
+
+Prediction: Walking
+Prediction array: [[1.00000e+00 4.83738e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (372).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.8044007e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (606).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.8433127e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (899).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2460011e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (86).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3744982e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (588).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.9201567e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (256).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.1420227e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (785).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 9.905178e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (242).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3168695e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (772).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.1112697e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (776).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.829484e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (253).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 7.6921985e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (612).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 5.883409e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (576).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.6990337e-20]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (664).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.6507403e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (906).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.433036e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (74).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.806467e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (68).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3221547e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (156).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.4182053e-25]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (514).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.3024173e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (143).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 4.8152942e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (46).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0279406e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (72).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.8705416e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (922).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 5.0199064e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (978).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.1601634e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (491).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.7021323e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (603).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.5227678e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1126).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.295507e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (750).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.1829427e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1068).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 7.336679e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (983).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 6.6305045e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (422).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.9192063e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (331).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 1.8943887e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (326).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 2.142283e-21]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (682).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 4.920728e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (8).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.2478944e-19]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (502).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 3.0897617e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (782).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.119842e-24]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (185).npy
+
+
+Prediction: Walking
+Prediction array: [[1.0000000e+00 2.2027002e-23]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (1112).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 3.095991e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (154).npy
+
+
+Prediction: Walking
+Prediction array: [[1.000000e+00 6.118061e-22]]
+Prediction Data Source: D:\CSUEB\lynne\DataSet_NPY\Walking\walking (112).npy
+
+
